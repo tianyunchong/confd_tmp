@@ -1,0 +1,26 @@
+[template]
+src="supsite_dev_sys.tmpl"
+dest="/tmp/confd/supsite/dev/sys.ini"
+keys=[
+   "/config/supsite/dev/sys/common",
+   "/config/supsite/dev/sys/mongo",
+   "/config/supsite/dev/sys/statisticsMongo",
+   "/config/supsite/dev/sys/memcommon",
+   "/config/supsite/dev/sys/shenzhenredis",
+   "/config/supsite/dev/sys/productEs",
+   "/config/supsite/dev/sys/newsEs",
+   "/config/supsite/dev/sys/articlesEs",
+   "/config/supsite/dev/sys/solutionsEs",
+   "/config/supsite/dev/sys/caseEs",
+   "/config/supsite/dev/sys/cmq",
+   "/config/supsite/dev/sys/wechatComponent",
+   "/config/supsite/dev/sys/upyun",
+   "/config/supsite/dev/sys/cnlservice",
+   "/config/supsite/dev/sys/createPage",
+   "/config/supsite/dev/sys/finance",
+   "/config/supsite/dev/sys/cnlPrice",
+   "/config/supsite/dev/sys/retailPrice",
+   "/config/supsite/dev/sys/workfnc",
+   "/config/supsite/dev/sys/channelfnc",
+   "/config/supsite/dev/sys/express"
+]

@@ -1,0 +1,9 @@
+[template]
+src="supsite_dev_url.tmpl"
+dest="/tmp/confd/supsite/dev/url.ini"
+keys=[
+   "/config/supsite/dev/url/base",
+   "/config/supsite/dev/url/mobilebase",
+   "/config/supsite/dev/url/supsite",
+   "/config/supsite/dev/url/managesite",
+]
